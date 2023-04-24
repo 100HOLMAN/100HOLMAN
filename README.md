@@ -18,9 +18,8 @@ ___
 -- | -- | --
 
 ## 📚 Bases De Datos 📖
-![seguridad-de-la-base-de-datos](https://user-images.githubusercontent.com/110309831/189399049-2089ef52-6a5b-4e68-9c12-d7d276b5c51e.png) | SQLite
--- | --
 ![base-de-datos](https://user-images.githubusercontent.com/110309831/189399857-8d64298b-f213-4084-b52e-894f85e69412.png) | SQL Server
+-- | --
 
 ## 📃 Framework 📓
 ![icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-24](https://user-images.githubusercontent.com/110309831/189400720-ed47cb2d-ed3a-455f-a0fa-dd868d21d03d.png) | DJango
