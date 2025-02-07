@@ -25,8 +25,7 @@ ___
 ![icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-24](https://user-images.githubusercontent.com/110309831/189400720-ed47cb2d-ed3a-455f-a0fa-dd868d21d03d.png) | DJango
 -- | --
 ![icons8-bootstrap-logo-24](https://user-images.githubusercontent.com/110309831/189401439-b510a5aa-7e07-4ce1-92c6-e956f38542f8.png) | Bootstrap 5.1
--- | --
-![icons8-bootstrap-logo-24]() | Tkinter
+
 
 ## 🛠️ IDE 🔨
 ![icons8-visual-studio-code-2019-100](https://user-images.githubusercontent.com/110309831/189401764-f2dbfcee-2b1f-4044-b1ea-d6b7b05baba8.png) | Visual Studio Code
