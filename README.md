@@ -15,7 +15,7 @@ ___
 
 ## 💻 Lenguajes 👨‍💻
 ![html5 (1)](https://user-images.githubusercontent.com/110309831/189398379-8e95da0a-5ed1-4308-8ba6-2e0225a49ff1.png) | ![css (1)](https://user-images.githubusercontent.com/110309831/189398449-5673cdab-2910-448e-92f7-02ad7f39dc25.png) | ![piton](https://user-images.githubusercontent.com/110309831/189398530-aaab5e0b-2191-45e5-92ce-139f60156bd8.png)
--- | -- | -- | --
+-- | -- | -- 
 
 ## 📚 Bases De Datos 📖
 ![base-de-datos](https://user-images.githubusercontent.com/110309831/189399857-8d64298b-f213-4084-b52e-894f85e69412.png) | SQL Server
@@ -26,7 +26,7 @@ ___
 -- | --
 ![icons8-bootstrap-logo-24](https://user-images.githubusercontent.com/110309831/189401439-b510a5aa-7e07-4ce1-92c6-e956f38542f8.png) | Bootstrap 5.1
 -- | --
-![icons8-bootstrap-logo-24]([https://user-images.githubusercontent.com/110309831/189401439-b510a5aa-7e07-4ce1-92c6-e956f38542f8.png](https://media.licdn.com/dms/image/v2/D5612AQEZF1Nn7PZGEg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1704020315328?e=2147483647&v=beta&t=UDLvTmZlPIZyBRT1jPRe7nMpJ0fn1jDHjnJu3ZXLXoQ)) | Tkinter
+![icons8-bootstrap-logo-24]() | Tkinter
 
 ## 🛠️ IDE 🔨
 ![icons8-visual-studio-code-2019-100](https://user-images.githubusercontent.com/110309831/189401764-f2dbfcee-2b1f-4044-b1ea-d6b7b05baba8.png) | Visual Studio Code
