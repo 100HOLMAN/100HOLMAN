@@ -26,7 +26,7 @@ ___
 -- | --
 ![icons8-bootstrap-logo-24](https://user-images.githubusercontent.com/110309831/189401439-b510a5aa-7e07-4ce1-92c6-e956f38542f8.png) | Bootstrap 5.1
 -- | --
-| Tkinter
+![icons8-bootstrap-logo-24]([https://user-images.githubusercontent.com/110309831/189401439-b510a5aa-7e07-4ce1-92c6-e956f38542f8.png](https://media.licdn.com/dms/image/v2/D5612AQEZF1Nn7PZGEg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1704020315328?e=2147483647&v=beta&t=UDLvTmZlPIZyBRT1jPRe7nMpJ0fn1jDHjnJu3ZXLXoQ)) | Tkinter
 
 ## 🛠️ IDE 🔨
 ![icons8-visual-studio-code-2019-100](https://user-images.githubusercontent.com/110309831/189401764-f2dbfcee-2b1f-4044-b1ea-d6b7b05baba8.png) | Visual Studio Code
