@@ -15,7 +15,7 @@ ___
 
 ## 💻 Lenguajes 👨‍💻
 ![html5 (1)](https://user-images.githubusercontent.com/110309831/189398379-8e95da0a-5ed1-4308-8ba6-2e0225a49ff1.png) | ![css (1)](https://user-images.githubusercontent.com/110309831/189398449-5673cdab-2910-448e-92f7-02ad7f39dc25.png) | ![piton](https://user-images.githubusercontent.com/110309831/189398530-aaab5e0b-2191-45e5-92ce-139f60156bd8.png)
--- | -- | --
+-- | -- | -- | --
 
 ## 📚 Bases De Datos 📖
 ![base-de-datos](https://user-images.githubusercontent.com/110309831/189399857-8d64298b-f213-4084-b52e-894f85e69412.png) | SQL Server
