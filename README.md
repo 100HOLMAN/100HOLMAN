@@ -1,6 +1,3 @@
-[![Texto alternativo](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-](https://lottie.host/de414d32-e85d-4e30-9736-e54f28f817e6/EGRchIBQR1.lottie)
-
 # 😃 Holman Alfonso 👨‍💻
 Estudiante de Ingeniería de Software | Java Backend Developer en formación 🚀
 Actualmente me formo en Jala University, enfocado en el desarrollo de soluciones con Java y arquitectura MVC. Me apasiona la infraestructura de redes, la gestión de bases de datos y los entornos de virtualización. Disfruto aplicar conceptos de lógica matemática para resolver problemas mediante código.
