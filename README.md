@@ -1,6 +1,6 @@
 # 😃 Holman Alfonso 👨‍💻
-### Estudiante de Ingeniería de Software | Java Backend Developer en formación 🚀
-Actualmente me formo en Jala University, enfocado en el desarrollo de soluciones con Java y arquitectura MVC. Me apasiona la infraestructura de redes, la gestión de bases de datos y los entornos de virtualización. Disfruto aplicar conceptos de lógica matemática para resolver problemas mediante código.
+### Estudiante de Ingeniería de Software | Backend Developer en formación 🚀
+Estudiante de Ingeniería de Software (3er semestre, Jala University) y Técnico en Programación de Software, con formación práctica en Java, C# y .NET, y desarrollo de interfaces de escritorio con Avalonia bajo el patrón MVVM. Experiencia con bases de datos relacionales y no relacionales (MySQL, MongoDB), contenerización con Docker y Docker Compose, y control de versiones (Git, GitHub, GitLab) bajo metodologías ágiles, incluyendo gestión de historias de usuario y trabajo colaborativo en equipo. Busco una posición junior full-stack donde pueda seguir desarrollando estas competencias, respaldado además por experiencia previa en atención al cliente y cumplimiento de objetivos.
 ___
 
 ## 📱 Contacto 📲 
